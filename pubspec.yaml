@@ -4,7 +4,7 @@ version: 0.0.3
 homepage: https://github.com/mrahman4/aws-ai
 
 environment:
-  sdk: ">=2.16.1 <3.0.0"
+  sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
   flutter:
