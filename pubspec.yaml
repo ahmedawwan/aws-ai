@@ -9,10 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5 
+  http: ^0.13.5
   async: ^2.9.0
   path: ^1.8.2
-  intl: ^0.17.0 
+  intl: ^0.17.0
   crypto: ^3.0.2
 
 dev_dependencies:
